@@ -1,11 +1,34 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HELP ME</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Timeline</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
+
 <body>
-    <h1> hi </h1>
+  <button id="up" class="button">
+    <img src="/assets/up-arrow.svg">
+  </button>
+  <div id="line"></div>
+  <button id="down" class="button">
+    <img src="/assets/up-arrow.svg">
+  </button>
+  <div id="vert"></div>
+  <div id="cdleft" class="content-display"><a id="leftanchor"></a></div>
+  <div id="cdleftcover" class="cdcover cdcoveroffscreenleft"></div>
+  <div id="cdright" class="content-display"></div>
+  <div id="cdrightcover" class="cdcover cdcoveroffscreenright"></div>
+  <div id="main">
+    
+    <div class="node-outline" id="focused">
+      <div class="node"></div>
+    </div>
+  </div>
+  
+  <script src="script.js"></script>
 </body>
+
 </html>

@@ -1,0 +1,98 @@
+[
+    {
+      "left": "Discord bot (2020)\n Language: Python",
+      "right": "My first major project, which I made to make my friends play video games with me during COVID",
+      "link": "https://github.com/amonguscline/Credit-Bot/tree/main"
+    },
+    {
+      "left": "French Homework Solver (2021)\n Language: Python",
+      "right": "A project I made during freshman year using EMNIST-OCR and benepar libraries to read my homework and fill in the blanks",
+      "link":"https://github.com/amonguscline/French-OCR-and-Parser"
+    },
+    {
+      "left":"Stargon Generator (2022)\n Language: Python",
+      "right":"Code to solve a problem of the week in my math class: calculate the internal and external angles of a shape with n vertices",
+      "link":"https://github.com/amonguscline/Stargon-Generator"
+    },
+    {
+      "left":"Pow 2 (2022)\n Language: Java",
+      "right":"More code to solve another problem of the week in my math class",
+      "link":"https://github.com/amonguscline/POW-2"
+    },
+    {
+      "left":"TicTacTwo (2022)\n Language: Java",
+      "right":"My own take on the game of TicTacToe",
+      "link":"https://github.com/amonguscline/TicTacTwo"
+    },
+    {
+      "left":"Boggle (2022)\n Language: Java",
+      "right":"A boggle game that I made for my CSA class",
+      "link":"https://github.com/amonguscline/Boggle"
+    },
+    {
+      "left":"20 Questions (2022)\n Language: Java",
+      "right":"A 20 Questions game that uses binary trees and learns from the user",
+      "link":"https://github.com/amonguscline/20-Questions"
+    },
+    {
+      "left":"Final Manager (2022)\n Language:Java",
+      "right":"A project that I made for my CSA midterm in order to keep track of finals for my classes",
+      "link":"https://github.com/amonguscline/Final-Manager"
+    },
+    {
+      "left":"BlackJack (2023)\n Language: Java",
+      "right":"My CSP create task",
+      "link":"https://github.com/amonguscline/Blackjack"
+    },
+    {
+      "left":"Turtle Game (2023)\n Language: Java",
+      "right":"Code for my CSA final",
+      "link":"https://github.com/amonguscline/Turtle-Game"
+    },
+    {
+      "left":"Seating Chart (2023)\n Language: Java",
+      "right":"Code that I made to calculate how many chairs would be needed for different combinations of orchestra classes",
+      "link":"https://github.com/amonguscline/Seating-Chart"
+    },
+    {
+      "left":"Sturm's Calculator (2023)\n Language: Java",
+      "right":"Code I wrote because I was frustrated with the rational roots theorem",
+      "link":"https://github.com/amonguscline/Sturms-Calculator"
+    },
+    {
+      "left":"Graphing Calculator (2023)\n Language: Java",
+      "right":"I don't own a graphing calculator, so I learned parsing and lexing to graph stuff (sadly, I was not able to use this during my math tests)",
+      "link":"https://github.com/amonguscline/Graphing-Calculator"
+    },
+    {
+      "left":"Elevator Simulation (2023)\n Language: Java",
+      "right":"An agent-based simulation that I made to calculate faster routes for elevators",
+      "link":"https://github.com/amonguscline/Elevator-Simulation"
+    },
+    {
+      "left":"Scientific Calculator (2024)\n Language: Java",
+      "right":"A group project that I did using code from my graphing calculator and adding more functionality",
+      "link":"https://github.com/amonguscline/Scientific-Calculator"
+    },
+    {
+      "left":"Reverse Minesweeper (2024)\n Language: Java",
+      "right":"Code that I made for my Software Engineering final; Minesweeper but you try to hit the bombs",
+      "link":"https://github.com/amonguscline/Reverse-Minesweeper"
+    },
+    {
+      "left":"Procedural Generation (2024)\n Language: Java",
+      "right":"Procedural generation made for our group final project's dungeon game",
+      "link":"https://github.com/amonguscline/Procedural-Generation"
+    },
+    {
+      "left":"Scheduler (2024)\n Language: Java",
+      "right":"A program to match coaches with students for The Coder School Berkeley",
+      "link":"https://github.com/amonguscline/Scheduler"
+    },
+    {
+      "left":"This timeline (2024)\n Language: Java",
+      "right":":)",
+      "link":"https://github.com/amonguscline/amonguscline.github.io"
+    }
+  ]
+  
